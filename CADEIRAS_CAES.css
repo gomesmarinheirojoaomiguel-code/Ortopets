@@ -1,0 +1,25 @@
+body {background-color: rgb(255, 6, 6);}
+
+#mae {
+background-color: blue;
+width: 800px;
+height: 1300;
+margin:auto;
+
+
+
+#cabeçalho {
+    background-color: blue;
+    width: 780px;
+    height: 1000;
+    color:white
+                }
+
+#corpo {
+    text-align: center;
+    background-color:blue;
+    width: 780px;
+    height: 1000;
+    color:white
+                }
+}
